@@ -1,0 +1,3 @@
+client:
+  product:
+    url: http://product:8081
